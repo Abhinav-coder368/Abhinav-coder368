@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinav-coder368&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav-coder368" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav-coder368" alt=Abhinav-coder368" /></a> </p>
+
 <img  src= "https://github-readme-stats.vercel.app/api?username=Abhinav-coder368&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!---
