@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on DSA and other stuff
 - 📫 How to reach me abhinavgangwar9927@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinav-coder368&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav-coder368" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav-coder368" alt=Abhinav-coder368" /></a> </p>
 
