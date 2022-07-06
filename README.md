@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav-coder368&show_icons=true&locale=en&layout=compact" alt="Abhinav-coder368" /></p>
-<\br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-coder368&" alt="Abhinav-coder368" /></p>
-<\br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav-coder368" alt=Abhinav-coder368" /></a> </p>
