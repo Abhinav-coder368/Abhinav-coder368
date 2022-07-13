@@ -34,3 +34,8 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-coder368&" alt="Abhinav-coder368" /></p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav-coder368" alt=Abhinav-coder368" /></a> </p>
+
+<hr>
+<p align="center">
+  <img src="https://github.com/Abhinav-coder368/Abhinav-coder368/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
