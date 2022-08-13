@@ -1,4 +1,5 @@
 # Hi there I'am Abhinav Gangwar.👋
+<a href="https://app.daily.dev/abhinavgangwar9"><img src="https://api.daily.dev/devcards/afc1ada3f9d34e58a4c2ca88257a3e77.png?r=et1" width="400" alt="Abhinav Gangwar's Dev Card"/></a>
 - 👋 Hi, I’m @Abhinav-coder368
 - 👀 I’m interested in Problem Solving and Competitive programming
 - 🌱 I’m currently learning Android Development
@@ -35,4 +36,4 @@ You can click the Preview link to take a look at your changes.
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhinav-coder368" alt=Abhinav-coder368" /></a> </p>
 
-<a href="https://app.daily.dev/abhinavgangwar9"><img src="https://api.daily.dev/devcards/afc1ada3f9d34e58a4c2ca88257a3e77.png?r=et1" width="400" alt="Abhinav Gangwar's Dev Card"/></a>
+
