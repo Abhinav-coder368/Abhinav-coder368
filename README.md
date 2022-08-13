@@ -1,5 +1,5 @@
 # Hi there I'am Abhinav Gangwar.👋
-<a href="https://app.daily.dev/abhinavgangwar9"><img src="https://api.daily.dev/devcards/afc1ada3f9d34e58a4c2ca88257a3e77.png?r=et1" width="400" alt="Abhinav Gangwar's Dev Card"/></a>
+
 - 👋 Hi, I’m @Abhinav-coder368
 - 👀 I’m interested in Problem Solving and Competitive programming
 - 🌱 I’m currently learning Android Development
