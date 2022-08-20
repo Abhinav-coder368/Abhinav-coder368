@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on DSA and other stuff
 - 📫 How to reach me abhinavgangwar9927@gmail.com
 
-<a href="https://app.daily.dev/abhinavgangwar9"><img src="https://api.daily.dev/devcards/afc1ada3f9d34e58a4c2ca88257a3e77.png?r=xia" width="400" alt="Abhinav Gangwar's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
