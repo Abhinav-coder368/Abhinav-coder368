@@ -1,5 +1,4 @@
 # Hi there I'am Abhinav Gangwar.👋
-https://camo.githubusercontent.com/7d5beb2b1df8a132c76ca57c4b2adb25c92b6b0d656b227a68144cda93deadfd/68747470733a2f2f677379736c61622e636f6d2f696d616765732f6d6f62696c652d6170702d637573746f6d697a652e676966
 
 - 👋 Hi, I’m @Abhinav-coder368
 - 👀 I’m interested in Problem Solving and Competitive programming
