@@ -19,6 +19,8 @@
 <a href="https://auth.geeksforgeeks.org/user/abhinavgangwar9927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinavgangwar9927" height="30" width="40" /></a>
 </p>
 
+<a href="https://app.daily.dev/abhinavgangwar9"><img src="https://api.daily.dev/devcards/v2/dgGh4Cmgw.png?r=5nx" width="356" alt="Abhinav Gangwar's Dev Card"/></a>
+
 
 
 
